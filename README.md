@@ -23,6 +23,20 @@ The Crop Yield Prediction System leverages machine learning techniques to foreca
 # Application
 This system supports farmers and agricultural planners in making data-driven decisions about which crops to plant, aiming to optimize yield based on historical data and current environmental conditions.
 
+# Timeline
+Developed: Nov 2020 - April 2021
+
+# Collaboration
+
+**Team Members:** Collaborated with 3 team members who played key roles in the project.
+
+**Data Gathering: **Assisted in collecting and preparing the historical crop yield data.
+
+**Testing:** Contributed to testing the model and ensuring its accuracy and reliability.
+
+**Documenting:** Helped in documenting the methodology, results, and usage instructions.
+
+
 # Repository Contents
 **Codebase:** Implementation of the machine learning model and data processing scripts.
 
@@ -35,3 +49,5 @@ This system supports farmers and agricultural planners in making data-driven dec
 **Expand Crop Database:** Incorporate additional crops and refine the model for more diverse agricultural contexts.
 
 **Improve Model Accuracy:** Experiment with other machine learning techniques and hyperparameter tuning to further enhance predictions.
+
+
